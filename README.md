@@ -25,8 +25,9 @@ Handle all the aspects of push notifications for your app, including remote and 
 - Built-in notification drawer management
 - High degree of code extensibility to allow for advanced custom layouts and any specific notifications behavior as available by [Android's API](https://developer.android.com/training/notify-user/build-notification.html)
 - Android equivalent of React-Native's implementation of [`PushNotificationsIOS.getInitialNotification()`](https://facebook.github.io/react-native/docs/pushnotificationios.html#getinitialnotification).
+- [Local notifications](#triggering-local-notifications).
 
-_Upcoming: local notifications, background-state Rx queue (iOS equivalent)_
+_Upcoming: background-state Rx queue (iOS equivalent)_
 
 ## Installation
 
